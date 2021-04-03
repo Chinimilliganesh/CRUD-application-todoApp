@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: #FFE506;
+   color:rgb(32, 3, 201);
+  font-family: "Roboto", sans-serif;
+}
+
+input {
+  background: border-box;
+  color: rgb(10, 10, 10);
+  border-top: none;
+  width: 200px;
+  padding: 5px;
+}
+
+button {
+  background: content-box;
+  color: #ec112e;
+  border: ;
+}
